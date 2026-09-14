@@ -1,0 +1,10 @@
+blur-my-shell@aunetx
+dash-to-dock@micxgx.gmail.com
+burn-my-windows@schneegans.github.com
+monitor@astraext.github.io
+tilingshell@ferrarodomenico.com
+vertical-workspaces@G-dH.github.com
+CoverflowAltTab@palatis.blogspot.com
+compiz-windows-effect@hermes83.github.com
+fq@megh
+tweaks-system-menu@extensions.gnome-shell.fifi.org
