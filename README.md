@@ -1,3 +1,5 @@
 ### My GNOME extensions.
 
-To install, just use: xargs -l gnome-extensions install < extensions.txt
+To install, just use:
+nix-shell -p gnome-extensions-cli
+xargs -l gnome-extensions-cli install < extensions.txt
